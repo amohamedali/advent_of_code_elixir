@@ -17,4 +17,4 @@ defmodule Santa do
 
 end
 
-Santa.help "part_1.input"
+Santa.help "day.input"

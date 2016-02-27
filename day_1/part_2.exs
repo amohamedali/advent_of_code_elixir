@@ -21,5 +21,5 @@ defmodule Santa do
 
 end
 
-Santa.help "part_2.input"
-# Santa.help "part_2.input.example"
+Santa.help "day.input"
+# Santa.help "day.input.example"

@@ -23,5 +23,5 @@ defmodule Santa do
 	def get_path("", path), do: path
 end
 
-Santa.help "part_1.input"
-# Santa.help "part_1.input.example"
+Santa.help "day.input"
+# Santa.help "day.input.example"
